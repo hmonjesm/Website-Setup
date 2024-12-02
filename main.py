@@ -21,6 +21,12 @@ html_content = """
 </head>
 <body>
 
+<nav>
+    <a href="index.html">Home</a>
+    <a href="ethics.html">Ethics</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
 <h2>My Introduction Table</h2>
 
 <table>
