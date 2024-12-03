@@ -15,7 +15,7 @@ html_content = """
         }
         th, td {
             padding: 10px;
-            text-align: left;
+            text-align: center;
         }
     </style>
 </head>
