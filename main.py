@@ -80,4 +80,4 @@ html_content = """
 </table>
 
 </body>
-</html>
+</html>"""
